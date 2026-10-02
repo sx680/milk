@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://storage.linkship.net/shared/audio/0db914b9-a94f-4f58-9759-7e95bf58778c.mp3';
+    var SRC = 'silent.m4a';
     var _audio = null;
     var _unlockBound = false;
 
